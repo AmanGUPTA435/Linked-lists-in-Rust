@@ -1,0 +1,27 @@
+[package]
+name = "linked-list"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name = "first_list"
+path = "./src/first_list.rs"
+
+[[bin]]
+name = "second_list"
+path = "./src/second_list.rs"
+
+[[bin]]
+name = "third_list"
+path = "./src/third_list.rs"
+
+[[bin]]
+name = "fourth_list"
+path = "./src/fourth_list.rs"
+
+[[bin]]
+name = "fifth_list"
+path = "./src/fifth_list.rs"
